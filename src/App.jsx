@@ -1,7 +1,8 @@
+import Product from "./page/product";
 function App() {
   return (
     <>
-      <h1>hello</h1>
+      <Product />
     </>
   );
 }
